@@ -21,5 +21,4 @@ In the shown formatting spaces represents a seperation between elements and a ne
 
 The inputs for the ordering of transfer proposals phi and the approixmation value epsilon is shown:
 
-![value input](https://user-images.githubusercontent.com/55467605/217378839-9c83d1ba-f486-42c1-a610-d9a69a5e3f89.jpg)
-
+![value input](https://user-images.githubusercontent.com/55467605/217378957-0289dce7-f8f0-4c4b-952a-5e4365efb76f.jpg)
