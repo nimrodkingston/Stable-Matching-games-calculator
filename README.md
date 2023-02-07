@@ -26,3 +26,7 @@ The inputs for the ordering of transfer proposals Φ and the approixmation value
 The ordering Φ is in the form of a list of indexes where the values 0 to (N/2)-1 represents players in the set M and values in the range (N/2)-1 to N-1 represents players in the set W. The values can be in any order and can even be repeated as long as there is at least one of each value in the range 0 to N-1 in Φ.
 
 The value ε for the approximation test can take any float value the user chooses.
+### Text file input
+Pre-made text files which are placed in the same folder as the source code can also be used for inputs in case the same/similar results are needed often. The text file name given to the application should be in the format [filename].txt and the text file itself should be formatted accordingly:
+
+![text file format](https://user-images.githubusercontent.com/55467605/217384884-6bb227f1-12bb-4999-87f0-a62b23ca5024.jpg)
