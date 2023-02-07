@@ -12,6 +12,6 @@ In order to run the application, the following python modules must be installed:
 ## Input Formatting
 ### Manual Input
 If the manual input option is chosen for inputting an instance of a matching game, the utility matrices for both sides of the matching will have to be inputted along with the order of transfer proposals to take place and the epsilon approximate value which the solution will be tested against.
-![Matrix input](https://user-images.githubusercontent.com/55467605/217366042-1e4436be-31a6-41c0-97e2-970111568023.jpg)
 
+![Matrix input](https://user-images.githubusercontent.com/55467605/217366042-1e4436be-31a6-41c0-97e2-970111568023.jpg)
 Matrix inputs are in the shown format where spaces represents seperated elements and a newline represents seperated rows. 
