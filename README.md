@@ -33,4 +33,4 @@ Pre-made text files which are placed in the same folder as the source code can a
 
 The first two matrix inputs represent the transferable utility for the players in sets M and W respectively, the single list seperated by spaces represents the ordering Φ and the approximate value ε is a single float on a separate line.
 
-If any of these fields are missing from the text file or there is any unnecessary whitespace at the end of the file, the text file will not be accepted
+If any of these fields are missing from the text file or there is any unnecessary whitespace at the end of the file, the text file will not be accepted.
