@@ -19,3 +19,7 @@ All matrix inputs in both the manual and text file inputs follow this input sche
 
 In the shown formatting spaces represents a seperation between elements and a newline represents seperated rows. It should also be noted that all matrix inputs must be square (i.e. have dimensions NxN) otherwise the input will not be accepted. 
 
+The inputs for the ordering of transfer proposals phi and the approixmation value epsilon is shown:
+
+![value input](https://user-images.githubusercontent.com/55467605/217378839-9c83d1ba-f486-42c1-a610-d9a69a5e3f89.jpg)
+
