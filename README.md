@@ -1,2 +1,7 @@
 # Stable-Matching-games-calculator
-This is a python based application which can find a stable matching for a bipartite matching problem similar to that of the stable marriage problem except payoffs are determined by strategic games between matched players and both sides of the matching can choose a potential partner instead of just one side proposing aprtners like in the Gale Shapley Algorithm.
+This is a python based application which is designed to find a stable matching for a bipartite matching problem similar to that of the stable marriage problem introduced by Gale and Shapley except payoffs are determined by matched players transferring utility between each other and both sides of the matching are allowed to propose transfer contracts.
+In order to run the application, the following python modules must be installed:
+-customtkinter
+-networkx
+-matplotlib
+-numpy
