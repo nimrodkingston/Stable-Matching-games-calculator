@@ -7,3 +7,5 @@ In order to run the application, the following python modules must be installed:
 - networkx
 - matplotlib
 - numpy
+## Input Formatting
+
