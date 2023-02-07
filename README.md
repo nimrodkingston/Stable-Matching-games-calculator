@@ -29,4 +29,8 @@ The value ε for the approximation test can take any float value the user choose
 ### Text file input
 Pre-made text files which are placed in the same folder as the source code can also be used for inputs in case the same/similar results are needed often. The text file name given to the application should be in the format [filename].txt and the text file itself should be formatted accordingly:
 
-![text file format](https://user-images.githubusercontent.com/55467605/217384884-6bb227f1-12bb-4999-87f0-a62b23ca5024.jpg)
+![text file format](https://user-images.githubusercontent.com/55467605/217384978-eb876282-40df-4ebf-881b-f874c30b9dda.jpg)
+
+The first two matrix inputs represent the transferable utility for the players in sets M and W respectively, the single list seperated by spaces represents the ordering Φ and the approximate value ε is a single float on a separate line.
+
+If any of these fields are missing from the text file or there is any unnecessary whitespace at the end of the file, the text file will not be accepted
