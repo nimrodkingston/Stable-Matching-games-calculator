@@ -8,4 +8,4 @@ In order to run the application, the following python modules must be installed:
 - matplotlib
 - numpy
 ## Input Formatting
-
+###Manual Input
