@@ -15,6 +15,6 @@ If the manual input option is chosen for inputting an instance of a matching gam
 
 All matrix inputs in both the manual and text file inputs follow this input scheme:
 
-![Matrix input](https://user-images.githubusercontent.com/55467605/217366042-1e4436be-31a6-41c0-97e2-970111568023.jpg)
+![Matrix input](https://user-images.githubusercontent.com/55467605/217369613-ff9cb3a7-3a3c-4ed4-a224-eeb2c65a3c35.jpg)
 
 In the shown formatting spaces represents a seperation between elements and a newline represents seperated rows. It should also be noted that all matrix inputs must be square (i.e. have dimensions NxN) otherwise the input will not be accepted. 
